@@ -8,7 +8,7 @@
 
 <p align="left">
     - Apaixonado por tecnologia, especialmente a programação. <br>
-    - Estou cursando o 5º semestre de Engenharia de Software. <br>
+    - Estou cursando o 6º semestre de Engenharia de Software. <br>
     - Meu sonho é me tornar um programador Full-Stack. <br>
 </p>
 
