@@ -23,7 +23,7 @@
 
 ---
 
-## 🌐 Contato:
+## 🌐 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joãoppaixao/"><img src="https://skillicons.dev/icons?i=linkedin" width="48"></a>
