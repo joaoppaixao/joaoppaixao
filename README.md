@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 Graduando do 7º período em **Engenharia de Software**
+- 🎓 Graduando do 8º período em **Engenharia de Software**
 - 💻 Desenvolvedor Full-Stack com foco em aplicações web
 - ⚡ Experiência no desenvolvimento de APIs REST e aplicações escaláveis
 - 🔍 Sempre estudando novas tecnologias e boas práticas
